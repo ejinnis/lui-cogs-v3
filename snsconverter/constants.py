@@ -8,4 +8,4 @@ INSTA_REGEX_PATTERN = re.compile(r"https://(?:www\.)?(instagram.com)")
 
 class SocialMedia(enum.Enum):
     INSTAGRAM = "Instagram"
-    TWITTER = "Twitter"
+    TWITTER = "X"
